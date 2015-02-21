@@ -1,0 +1,10 @@
+name: klang
+description: >
+  Some additional features for dart language.
+version: 0.1.0
+author: "Gaëtan Rizio <gaetan@rizio.fr>"
+homepage: https://github.com/kneelnrise/dart-klang
+#dependencies:
+#  lib_name: any
+dev_dependencies:
+  unittest: any
