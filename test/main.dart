@@ -6,6 +6,7 @@ import 'lang/test_lazy.dart';
 import 'utilities/test_boolean.dart';
 import 'utilities/test_integer.dart';
 import 'utilities/test_list.dart';
+import 'utilities/test_map.dart';
 import 'utilities/test_string.dart';
 
 void main() {
@@ -16,5 +17,6 @@ void main() {
   tst_utilities_boolean();
   tst_utilities_integer();
   tst_utilities_list();
+  tst_utilities_map();
   tst_utilities_string();
 }
